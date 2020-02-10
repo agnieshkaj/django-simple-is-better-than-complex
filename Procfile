@@ -1,1 +1,1 @@
-web: gunicorn triningproject.triningproject.wsgi --log-file -
+web: gunicorn trainingproject.wsgi --log-file -
