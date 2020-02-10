@@ -39,8 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'widget_tweaks',
-    'accounts',
-    'boards',
+    'triningproject.accounts',
+    'triningproject.boards',
 ]
 
 MIDDLEWARE = [
